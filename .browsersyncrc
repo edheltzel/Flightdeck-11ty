@@ -1,0 +1,5 @@
+module.exports = {
+  files: ["dist/*"],
+  injectChanges: true,
+  server: "dist",
+};
